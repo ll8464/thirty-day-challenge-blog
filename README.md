@@ -20,3 +20,7 @@ Uses Swiper, an API for slides.
 The 30-Day Challenge Blog is more or less completed. It still needs to be made more responsive on larger (desktop) sizes. For now, I would like to change pace to OOP, namely Java.
 
 Even though I've worked professionally as a Java Developer, I've come to the realization that I have few Java projects on my github. Thus the next part of the challenge will be finding and completing a java project.
+
+12/08/2022
+
+Currently working through a refresher CodeSpace Java course called "Practice It: Java" by Bethan Palmer on LinkedIn Learning.
