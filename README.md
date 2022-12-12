@@ -24,3 +24,7 @@ Even though I've worked professionally as a Java Developer, I've come to the rea
 12/08/2022
 
 Currently working through a refresher CodeSpace Java course called "Practice It: Java" by Bethan Palmer on LinkedIn Learning.
+
+12/12/2022
+
+Created a simple REST API using Spring Boot. Just installed and learning postgresql and docker.
