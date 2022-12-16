@@ -28,3 +28,7 @@ Currently working through a refresher CodeSpace Java course called "Practice It:
 12/12/2022
 
 Created a simple REST API using Spring Boot. Just installed and learning postgresql and docker.
+
+12/15/2022
+
+Currently designing a Spotify Web API using MockFlow for the wireframe. Expected completion time: 1 week.
