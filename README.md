@@ -32,3 +32,7 @@ Created a simple REST API using Spring Boot. Just installed and learning postgre
 12/15/2022
 
 Currently designing a Spotify Web API using MockFlow for the wireframe. Expected completion time: 1 week.
+
+12/16/2022
+
+Looking into Spotify documentation. Viewed a tutorial called "How to use Spotify's API with JavaScript" by Avery Wicks. https://www.youtube.com/watch?v=SbelQW2JaDQ&list=PLIW3EOtS6Q58YwhDQrsF9__-Hi_R2m7zw&index=25&t=369s
